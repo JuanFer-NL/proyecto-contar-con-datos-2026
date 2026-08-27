@@ -20,6 +20,9 @@ renv/staging/
 data/raw/*
 !data/raw/.gitkeep
 
+# Base de datos: se regenera con sql/load_data.py a partir de los CSV versionados
+data/processed/*.db
+
 # OS / editores
 .DS_Store
 *.swp

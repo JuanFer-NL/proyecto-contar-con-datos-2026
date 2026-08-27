@@ -22,6 +22,16 @@
 
 **Control de calidad**: para cada provincia y año, la suma de `vab` sobre los 52 sectores coincide (a error de punto flotante) con el `vab` de `vab_total.csv` para esa misma provincia/año. Verificado en `etl/build_tidy_dataset.py`.
 
+## `data/processed/provincias.geojson`
+
+| Campo | Tipo | Descripción |
+|---|---|---|
+| `provincia` | texto | Nombre canónico de la provincia, idéntico al usado en `vab_total.csv` / `vab_sectorial.csv` (verificado por match exacto de conjuntos, sin necesidad de tabla de equivalencias). |
+| `codigo_indec` | texto | Código de provincia INDEC (2 dígitos), igual al usado en `sql/load_data.py`. |
+| `geometry` | polígono | Límite provincial, CRS EPSG:4326 (WGS84), geometría simplificada (tolerancia 0.01°, ~1 km) para uso en mapas web. |
+
+**Fuente**: Instituto Geográfico Nacional (IGN), capa "Provincia", vía servicio WFS del Geoserver del IGN. Generado con `etl/download_shapefile.py`. El shapefile original (sin simplificar, ~64 MB) queda en `data/raw/shapefile_provincias/` y no se versiona en el repo.
+
 ## Notas metodológicas heredadas de la fuente
 
 - **Año base**: 2004. Los valores están a precios constantes de ese año (no corregidos por inflación posterior a 2004, permite comparar volumen físico entre años).
