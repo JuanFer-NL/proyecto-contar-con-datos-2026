@@ -1,0 +1,547 @@
+provincia,anio,vab,nota_calidad,es_jurisdiccion
+Ciudad Autónoma de Buenos Aires,2004,85706.9389997919,definitivo,True
+Ciudad Autónoma de Buenos Aires,2005,93469.95463675624,definitivo,True
+Ciudad Autónoma de Buenos Aires,2006,101611.08377406489,definitivo,True
+Ciudad Autónoma de Buenos Aires,2007,112043.00268777998,definitivo,True
+Ciudad Autónoma de Buenos Aires,2008,117138.63951063761,definitivo,True
+Ciudad Autónoma de Buenos Aires,2009,113930.44540423095,definitivo,True
+Ciudad Autónoma de Buenos Aires,2010,120655.15237519846,definitivo,True
+Ciudad Autónoma de Buenos Aires,2011,126646.75399574771,definitivo,True
+Ciudad Autónoma de Buenos Aires,2012,124780.94368182396,definitivo,True
+Ciudad Autónoma de Buenos Aires,2013,124883.37075653736,definitivo,True
+Ciudad Autónoma de Buenos Aires,2014,122315.64532211226,definitivo,True
+Ciudad Autónoma de Buenos Aires,2015,124107.99636069647,definitivo,True
+Ciudad Autónoma de Buenos Aires,2016,123069.3193121094,definitivo,True
+Ciudad Autónoma de Buenos Aires,2017,125851.40755819698,definitivo,True
+Ciudad Autónoma de Buenos Aires,2018,123960.27416433953,definitivo,True
+Ciudad Autónoma de Buenos Aires,2019,118127.08174770727,definitivo,True
+Ciudad Autónoma de Buenos Aires,2020,103866.38057701517,definitivo,True
+Ciudad Autónoma de Buenos Aires,2021,113287.49564844577,definitivo,True
+Ciudad Autónoma de Buenos Aires,2022,119005.56797202495,definitivo,True
+Ciudad Autónoma de Buenos Aires,2023,119458.5003126663,preliminar,True
+Ciudad Autónoma de Buenos Aires,2024,116846.20098676288,preliminar,True
+Buenos Aires,2004,131865.78663682152,definitivo,True
+Buenos Aires,2005,144250.01895252315,definitivo,True
+Buenos Aires,2006,154690.49646350878,definitivo,True
+Buenos Aires,2007,165798.93687057696,definitivo,True
+Buenos Aires,2008,173707.72288392414,definitivo,True
+Buenos Aires,2009,162737.5434161138,definitivo,True
+Buenos Aires,2010,182269.3369398631,definitivo,True
+Buenos Aires,2011,193638.31651528747,definitivo,True
+Buenos Aires,2012,192659.46734677398,definitivo,True
+Buenos Aires,2013,196304.06117072958,definitivo,True
+Buenos Aires,2014,189414.5634270474,definitivo,True
+Buenos Aires,2015,195353.40957580582,definitivo,True
+Buenos Aires,2016,191212.38691017134,definitivo,True
+Buenos Aires,2017,196053.73863809937,definitivo,True
+Buenos Aires,2018,189705.0682805702,definitivo,True
+Buenos Aires,2019,184883.6551682327,definitivo,True
+Buenos Aires,2020,168105.96143604463,definitivo,True
+Buenos Aires,2021,186413.45193394093,definitivo,True
+Buenos Aires,2022,196508.6894162572,definitivo,True
+Buenos Aires,2023,192891.54745112275,preliminar,True
+Buenos Aires,2024,187017.27381535503,preliminar,True
+Catamarca,2004,3857.9592162461195,definitivo,True
+Catamarca,2005,4350.107767745429,definitivo,True
+Catamarca,2006,4586.26669650945,definitivo,True
+Catamarca,2007,4735.1555228953175,definitivo,True
+Catamarca,2008,4556.185409043034,definitivo,True
+Catamarca,2009,4158.00598505981,definitivo,True
+Catamarca,2010,4259.239751162789,definitivo,True
+Catamarca,2011,4231.855095013622,definitivo,True
+Catamarca,2012,4326.0939064183685,definitivo,True
+Catamarca,2013,4137.89863174401,definitivo,True
+Catamarca,2014,4262.849545695976,definitivo,True
+Catamarca,2015,3854.91070259197,definitivo,True
+Catamarca,2016,3857.152776644036,definitivo,True
+Catamarca,2017,3797.491593175459,definitivo,True
+Catamarca,2018,3624.651487861098,definitivo,True
+Catamarca,2019,3277.558444053587,definitivo,True
+Catamarca,2020,2953.1807741783996,definitivo,True
+Catamarca,2021,3437.1302025660716,definitivo,True
+Catamarca,2022,3822.779757561829,definitivo,True
+Catamarca,2023,4048.4053185037333,preliminar,True
+Catamarca,2024,3832.286397516088,preliminar,True
+Córdoba,2004,32365.857410813114,definitivo,True
+Córdoba,2005,37648.155520788496,definitivo,True
+Córdoba,2006,39985.421064467555,definitivo,True
+Córdoba,2007,45319.75497996535,definitivo,True
+Córdoba,2008,46370.611280916615,definitivo,True
+Córdoba,2009,42137.318995895934,definitivo,True
+Córdoba,2010,47523.281492977934,definitivo,True
+Córdoba,2011,49660.89707397726,definitivo,True
+Córdoba,2012,47383.62463873099,definitivo,True
+Córdoba,2013,50922.60688500581,definitivo,True
+Córdoba,2014,50256.4252599618,definitivo,True
+Córdoba,2015,52252.09352634015,definitivo,True
+Córdoba,2016,51437.99550003343,definitivo,True
+Córdoba,2017,52518.31448647719,definitivo,True
+Córdoba,2018,49072.85101576058,definitivo,True
+Córdoba,2019,50229.88011390725,definitivo,True
+Córdoba,2020,44697.155085211205,definitivo,True
+Córdoba,2021,50123.286198128015,definitivo,True
+Córdoba,2022,51702.63276934116,definitivo,True
+Córdoba,2023,48101.89569042923,preliminar,True
+Córdoba,2024,50276.79501840831,preliminar,True
+Corrientes,2004,4777.103157693821,definitivo,True
+Corrientes,2005,5419.832134179635,definitivo,True
+Corrientes,2006,5703.463900320446,definitivo,True
+Corrientes,2007,6085.322433315801,definitivo,True
+Corrientes,2008,6342.719388541876,definitivo,True
+Corrientes,2009,6146.157797992931,definitivo,True
+Corrientes,2010,6496.763868723676,definitivo,True
+Corrientes,2011,7129.12807891337,definitivo,True
+Corrientes,2012,7167.112387447052,definitivo,True
+Corrientes,2013,7353.947986551493,definitivo,True
+Corrientes,2014,7382.1606140320755,definitivo,True
+Corrientes,2015,7585.72312320897,definitivo,True
+Corrientes,2016,7432.8506902449035,definitivo,True
+Corrientes,2017,7791.113605031898,definitivo,True
+Corrientes,2018,7884.82674201752,definitivo,True
+Corrientes,2019,7604.429120971795,definitivo,True
+Corrientes,2020,6947.5453635091035,definitivo,True
+Corrientes,2021,7580.6236657994,definitivo,True
+Corrientes,2022,7697.056281381382,definitivo,True
+Corrientes,2023,7850.578862537045,preliminar,True
+Corrientes,2024,7438.085809116307,preliminar,True
+Chaco,2004,5596.916710129125,definitivo,True
+Chaco,2005,6254.400273992606,definitivo,True
+Chaco,2006,6857.731823114191,definitivo,True
+Chaco,2007,7474.246982776608,definitivo,True
+Chaco,2008,7893.518770556104,definitivo,True
+Chaco,2009,7518.486481732506,definitivo,True
+Chaco,2010,8467.187833029226,definitivo,True
+Chaco,2011,9356.357508237112,definitivo,True
+Chaco,2012,8524.385441823111,definitivo,True
+Chaco,2013,8943.206457758806,definitivo,True
+Chaco,2014,9653.221992207664,definitivo,True
+Chaco,2015,9543.211289147108,definitivo,True
+Chaco,2016,9428.18462037238,definitivo,True
+Chaco,2017,9798.786524271296,definitivo,True
+Chaco,2018,9671.31288773196,definitivo,True
+Chaco,2019,9144.803921101597,definitivo,True
+Chaco,2020,8583.459784442299,definitivo,True
+Chaco,2021,9152.087080185787,definitivo,True
+Chaco,2022,9739.434550716349,definitivo,True
+Chaco,2023,9482.39673646194,preliminar,True
+Chaco,2024,8880.840541586334,preliminar,True
+Chubut,2004,9546.840944226207,definitivo,True
+Chubut,2005,9965.913162858922,definitivo,True
+Chubut,2006,10999.771078496582,definitivo,True
+Chubut,2007,11203.803748440941,definitivo,True
+Chubut,2008,11326.755684149422,definitivo,True
+Chubut,2009,10719.481416880755,definitivo,True
+Chubut,2010,11458.768602323511,definitivo,True
+Chubut,2011,11917.564547769187,definitivo,True
+Chubut,2012,11490.864972529298,definitivo,True
+Chubut,2013,11845.076630322816,definitivo,True
+Chubut,2014,12152.82607243248,definitivo,True
+Chubut,2015,12251.615443188415,definitivo,True
+Chubut,2016,11777.009342325913,definitivo,True
+Chubut,2017,12100.409690285169,definitivo,True
+Chubut,2018,12044.510981881389,definitivo,True
+Chubut,2019,12183.356594889361,definitivo,True
+Chubut,2020,10929.786902813854,definitivo,True
+Chubut,2021,11358.586046406142,definitivo,True
+Chubut,2022,11501.75619653268,definitivo,True
+Chubut,2023,11255.774276489497,preliminar,True
+Chubut,2024,11000.363878768272,preliminar,True
+Entre Ríos,2004,10433.913892555716,definitivo,True
+Entre Ríos,2005,11704.259827443106,definitivo,True
+Entre Ríos,2006,12458.141764772166,definitivo,True
+Entre Ríos,2007,13767.910105556337,definitivo,True
+Entre Ríos,2008,14105.849672978104,definitivo,True
+Entre Ríos,2009,13016.476178825575,definitivo,True
+Entre Ríos,2010,14954.00838510851,definitivo,True
+Entre Ríos,2011,15653.316549820927,definitivo,True
+Entre Ríos,2012,15594.778391664344,definitivo,True
+Entre Ríos,2013,16112.887389498033,definitivo,True
+Entre Ríos,2014,15885.138940041172,definitivo,True
+Entre Ríos,2015,16447.984584973347,definitivo,True
+Entre Ríos,2016,15682.531774171624,definitivo,True
+Entre Ríos,2017,16467.48357522382,definitivo,True
+Entre Ríos,2018,15820.865060167771,definitivo,True
+Entre Ríos,2019,16066.89715236685,definitivo,True
+Entre Ríos,2020,14987.102614707153,definitivo,True
+Entre Ríos,2021,15986.06468875553,definitivo,True
+Entre Ríos,2022,16833.72398755037,definitivo,True
+Entre Ríos,2023,16142.897033628187,preliminar,True
+Entre Ríos,2024,16212.166683978494,preliminar,True
+Formosa,2004,2263.4084682685507,definitivo,True
+Formosa,2005,2557.5067338857157,definitivo,True
+Formosa,2006,2734.846049350176,definitivo,True
+Formosa,2007,2961.4454999743602,definitivo,True
+Formosa,2008,2948.366633568504,definitivo,True
+Formosa,2009,2946.3809133516593,definitivo,True
+Formosa,2010,3100.304626819277,definitivo,True
+Formosa,2011,3372.5592326134715,definitivo,True
+Formosa,2012,3375.438269871582,definitivo,True
+Formosa,2013,3460.1020785069295,definitivo,True
+Formosa,2014,3418.323951755052,definitivo,True
+Formosa,2015,3621.6033192418,definitivo,True
+Formosa,2016,3607.7142746786067,definitivo,True
+Formosa,2017,3700.0834987469166,definitivo,True
+Formosa,2018,3680.882784255223,definitivo,True
+Formosa,2019,3469.3401976060713,definitivo,True
+Formosa,2020,3243.850716685512,definitivo,True
+Formosa,2021,3601.511845020573,definitivo,True
+Formosa,2022,3605.803119916634,definitivo,True
+Formosa,2023,3517.555869714982,preliminar,True
+Formosa,2024,3063.5434293604717,preliminar,True
+Jujuy,2004,3654.7864904487606,definitivo,True
+Jujuy,2005,3855.4124577396296,definitivo,True
+Jujuy,2006,4096.550150536816,definitivo,True
+Jujuy,2007,4430.736790754397,definitivo,True
+Jujuy,2008,4639.601079863431,definitivo,True
+Jujuy,2009,4582.224554277871,definitivo,True
+Jujuy,2010,5060.902525108878,definitivo,True
+Jujuy,2011,5317.735136918633,definitivo,True
+Jujuy,2012,5446.2816960193895,definitivo,True
+Jujuy,2013,5467.744686933372,definitivo,True
+Jujuy,2014,5513.580542780318,definitivo,True
+Jujuy,2015,5771.744856525733,definitivo,True
+Jujuy,2016,5561.802770859292,definitivo,True
+Jujuy,2017,5729.807658597462,definitivo,True
+Jujuy,2018,5667.701731514497,definitivo,True
+Jujuy,2019,5744.505681767606,definitivo,True
+Jujuy,2020,5238.660860714085,definitivo,True
+Jujuy,2021,6008.22776971689,definitivo,True
+Jujuy,2022,6528.855601065838,definitivo,True
+Jujuy,2023,6712.399711101378,preliminar,True
+Jujuy,2024,6073.519669391252,preliminar,True
+La Pampa,2004,3826.128184994525,definitivo,True
+La Pampa,2005,4607.640394966203,definitivo,True
+La Pampa,2006,4616.580119575321,definitivo,True
+La Pampa,2007,5171.145994158461,definitivo,True
+La Pampa,2008,5579.9730548436255,definitivo,True
+La Pampa,2009,5166.17420774492,definitivo,True
+La Pampa,2010,5516.951758582151,definitivo,True
+La Pampa,2011,5899.7452824501615,definitivo,True
+La Pampa,2012,5904.047691236081,definitivo,True
+La Pampa,2013,5959.897276703967,definitivo,True
+La Pampa,2014,5680.71985629953,definitivo,True
+La Pampa,2015,5989.238107158971,definitivo,True
+La Pampa,2016,6197.514048229145,definitivo,True
+La Pampa,2017,6017.231881698818,definitivo,True
+La Pampa,2018,5917.22957811344,definitivo,True
+La Pampa,2019,6057.460367764089,definitivo,True
+La Pampa,2020,5441.994118819732,definitivo,True
+La Pampa,2021,5878.04923327926,definitivo,True
+La Pampa,2022,6448.564536034809,definitivo,True
+La Pampa,2023,6125.781575533413,preliminar,True
+La Pampa,2024,6148.65752108598,preliminar,True
+La Rioja,2004,2520.3505146233074,definitivo,True
+La Rioja,2005,2718.6692214556583,definitivo,True
+La Rioja,2006,2851.7139365851463,definitivo,True
+La Rioja,2007,3128.877358604225,definitivo,True
+La Rioja,2008,3083.524513554361,definitivo,True
+La Rioja,2009,2972.180221085298,definitivo,True
+La Rioja,2010,3282.8738459625843,definitivo,True
+La Rioja,2011,3460.6633689226383,definitivo,True
+La Rioja,2012,3333.5046082027775,definitivo,True
+La Rioja,2013,3489.5395247334413,definitivo,True
+La Rioja,2014,3366.1925939243497,definitivo,True
+La Rioja,2015,3440.84489543921,definitivo,True
+La Rioja,2016,3390.7322745393044,definitivo,True
+La Rioja,2017,3500.4297548849117,definitivo,True
+La Rioja,2018,3375.698059510103,definitivo,True
+La Rioja,2019,3291.6598094594306,definitivo,True
+La Rioja,2020,2908.454225577855,definitivo,True
+La Rioja,2021,3214.7336262108192,definitivo,True
+La Rioja,2022,3480.5758953062214,definitivo,True
+La Rioja,2023,3462.9670408966936,preliminar,True
+La Rioja,2024,3218.3445988488265,preliminar,True
+Mendoza,2004,16294.445001773262,definitivo,True
+Mendoza,2005,16880.824503402746,definitivo,True
+Mendoza,2006,18538.146724464867,definitivo,True
+Mendoza,2007,19725.611377206435,definitivo,True
+Mendoza,2008,20460.11448189046,definitivo,True
+Mendoza,2009,19279.82953066335,definitivo,True
+Mendoza,2010,20145.17294505129,definitivo,True
+Mendoza,2011,21286.625291997538,definitivo,True
+Mendoza,2012,21445.53840800319,definitivo,True
+Mendoza,2013,21583.071611350122,definitivo,True
+Mendoza,2014,21037.52200431936,definitivo,True
+Mendoza,2015,21786.253841590482,definitivo,True
+Mendoza,2016,20738.70823267396,definitivo,True
+Mendoza,2017,20987.501030313364,definitivo,True
+Mendoza,2018,20986.92801970867,definitivo,True
+Mendoza,2019,20689.43769646239,definitivo,True
+Mendoza,2020,18038.465493179363,definitivo,True
+Mendoza,2021,19098.095755221177,definitivo,True
+Mendoza,2022,19870.1112119676,definitivo,True
+Mendoza,2023,19751.352152088548,preliminar,True
+Mendoza,2024,19570.14305174524,preliminar,True
+Misiones,2004,5385.670902209469,definitivo,True
+Misiones,2005,5745.407290248909,definitivo,True
+Misiones,2006,6069.920730073431,definitivo,True
+Misiones,2007,6355.842168543137,definitivo,True
+Misiones,2008,6302.007198376822,definitivo,True
+Misiones,2009,5984.9134550720455,definitivo,True
+Misiones,2010,6468.690863554532,definitivo,True
+Misiones,2011,6890.465907207835,definitivo,True
+Misiones,2012,6971.963933073058,definitivo,True
+Misiones,2013,7275.60287575051,definitivo,True
+Misiones,2014,7340.602956224029,definitivo,True
+Misiones,2015,7555.406211776996,definitivo,True
+Misiones,2016,7372.985553595275,definitivo,True
+Misiones,2017,7552.488313134426,definitivo,True
+Misiones,2018,7440.846024725171,definitivo,True
+Misiones,2019,7277.645729364754,definitivo,True
+Misiones,2020,6961.487939208579,definitivo,True
+Misiones,2021,7816.568398460394,definitivo,True
+Misiones,2022,8042.837077644262,definitivo,True
+Misiones,2023,7921.475834919172,preliminar,True
+Misiones,2024,7511.030204994835,preliminar,True
+Neuquén,2004,13372.499426450642,definitivo,True
+Neuquén,2005,13195.889155313078,definitivo,True
+Neuquén,2006,13628.403859980126,definitivo,True
+Neuquén,2007,13949.540312306714,definitivo,True
+Neuquén,2008,14018.740378224302,definitivo,True
+Neuquén,2009,13330.074204895616,definitivo,True
+Neuquén,2010,13371.949372475256,definitivo,True
+Neuquén,2011,13374.221019897428,definitivo,True
+Neuquén,2012,12838.230822682952,definitivo,True
+Neuquén,2013,12817.811729117542,definitivo,True
+Neuquén,2014,13275.002822234466,definitivo,True
+Neuquén,2015,13975.134470269693,definitivo,True
+Neuquén,2016,13721.911144564552,definitivo,True
+Neuquén,2017,13632.347899218712,definitivo,True
+Neuquén,2018,14457.80334754926,definitivo,True
+Neuquén,2019,15789.967543141353,definitivo,True
+Neuquén,2020,14601.074661285616,definitivo,True
+Neuquén,2021,17382.769771060393,definitivo,True
+Neuquén,2022,20644.769500030678,definitivo,True
+Neuquén,2023,23049.446049840182,preliminar,True
+Neuquén,2024,25661.119564164113,preliminar,True
+Río Negro,2004,5843.68911109249,definitivo,True
+Río Negro,2005,6406.376855477959,definitivo,True
+Río Negro,2006,7018.450347340538,definitivo,True
+Río Negro,2007,7357.660076976105,definitivo,True
+Río Negro,2008,7498.568888700254,definitivo,True
+Río Negro,2009,7265.080509000966,definitivo,True
+Río Negro,2010,7692.065976336184,definitivo,True
+Río Negro,2011,8273.496241162937,definitivo,True
+Río Negro,2012,8428.350503925463,definitivo,True
+Río Negro,2013,8704.659686288844,definitivo,True
+Río Negro,2014,8528.237966104674,definitivo,True
+Río Negro,2015,8788.932137618654,definitivo,True
+Río Negro,2016,8535.02538846945,definitivo,True
+Río Negro,2017,8635.749256561825,definitivo,True
+Río Negro,2018,8683.942116688724,definitivo,True
+Río Negro,2019,8544.777447976408,definitivo,True
+Río Negro,2020,7745.820825642554,definitivo,True
+Río Negro,2021,8243.233016543649,definitivo,True
+Río Negro,2022,8519.552117280595,definitivo,True
+Río Negro,2023,8514.882525453075,preliminar,True
+Río Negro,2024,8460.563327073045,preliminar,True
+Salta,2004,7264.3663441389845,definitivo,True
+Salta,2005,7806.329561458875,definitivo,True
+Salta,2006,8576.222248848557,definitivo,True
+Salta,2007,9208.789241090191,definitivo,True
+Salta,2008,9596.607711476445,definitivo,True
+Salta,2009,9187.2518509414,definitivo,True
+Salta,2010,9918.138965102844,definitivo,True
+Salta,2011,10461.221803958188,definitivo,True
+Salta,2012,9929.634629378415,definitivo,True
+Salta,2013,9513.381554070746,definitivo,True
+Salta,2014,10031.92370757554,definitivo,True
+Salta,2015,10806.704866998043,definitivo,True
+Salta,2016,10443.627416951098,definitivo,True
+Salta,2017,10832.797762984908,definitivo,True
+Salta,2018,10714.78361341531,definitivo,True
+Salta,2019,10851.63870189922,definitivo,True
+Salta,2020,10042.548678894971,definitivo,True
+Salta,2021,10766.816247820154,definitivo,True
+Salta,2022,11115.293091854894,definitivo,True
+Salta,2023,11485.28892082846,preliminar,True
+Salta,2024,11065.990562826968,preliminar,True
+San Juan,2004,4791.38168783071,definitivo,True
+San Juan,2005,5256.855159910032,definitivo,True
+San Juan,2006,5879.970971083377,definitivo,True
+San Juan,2007,6265.337127620007,definitivo,True
+San Juan,2008,6697.6754870431305,definitivo,True
+San Juan,2009,6765.919110486781,definitivo,True
+San Juan,2010,7882.314679278436,definitivo,True
+San Juan,2011,8298.245856706611,definitivo,True
+San Juan,2012,8372.924296187242,definitivo,True
+San Juan,2013,8581.759295078284,definitivo,True
+San Juan,2014,8172.512306221967,definitivo,True
+San Juan,2015,7904.4433687122655,definitivo,True
+San Juan,2016,7529.823500885286,definitivo,True
+San Juan,2017,7705.027767105922,definitivo,True
+San Juan,2018,7593.670017113162,definitivo,True
+San Juan,2019,7364.097261300927,definitivo,True
+San Juan,2020,6621.406266726823,definitivo,True
+San Juan,2021,7385.926471901544,definitivo,True
+San Juan,2022,7867.462874402562,definitivo,True
+San Juan,2023,7770.368742414672,preliminar,True
+San Juan,2024,7707.687856063136,preliminar,True
+San Luis,2004,4486.51860352124,definitivo,True
+San Luis,2005,4785.114549925445,definitivo,True
+San Luis,2006,4949.946431781591,definitivo,True
+San Luis,2007,5284.970663734568,definitivo,True
+San Luis,2008,5474.115235259079,definitivo,True
+San Luis,2009,5194.0035977680145,definitivo,True
+San Luis,2010,5561.412462611791,definitivo,True
+San Luis,2011,5907.646956054552,definitivo,True
+San Luis,2012,5823.114665609324,definitivo,True
+San Luis,2013,6233.473941982881,definitivo,True
+San Luis,2014,6090.02867857402,definitivo,True
+San Luis,2015,6432.568971569378,definitivo,True
+San Luis,2016,6231.761709297075,definitivo,True
+San Luis,2017,6317.333997739297,definitivo,True
+San Luis,2018,5969.8311310489635,definitivo,True
+San Luis,2019,5822.852628040145,definitivo,True
+San Luis,2020,5078.408620763219,definitivo,True
+San Luis,2021,5975.812584570851,definitivo,True
+San Luis,2022,6238.592350487654,definitivo,True
+San Luis,2023,6113.050087490278,preliminar,True
+San Luis,2024,5574.489043516816,preliminar,True
+Santa Cruz,2004,7427.584790299608,definitivo,True
+Santa Cruz,2005,7585.025494084978,definitivo,True
+Santa Cruz,2006,8247.073540300984,definitivo,True
+Santa Cruz,2007,8251.301129296648,definitivo,True
+Santa Cruz,2008,8255.085305455861,definitivo,True
+Santa Cruz,2009,8437.505678054747,definitivo,True
+Santa Cruz,2010,8624.743771582334,definitivo,True
+Santa Cruz,2011,8600.132145826134,definitivo,True
+Santa Cruz,2012,9212.686501727392,definitivo,True
+Santa Cruz,2013,9310.183369911552,definitivo,True
+Santa Cruz,2014,9423.042164097466,definitivo,True
+Santa Cruz,2015,10294.44991128173,definitivo,True
+Santa Cruz,2016,9512.294785071354,definitivo,True
+Santa Cruz,2017,9289.21538147531,definitivo,True
+Santa Cruz,2018,9158.609311683462,definitivo,True
+Santa Cruz,2019,8957.755140383111,definitivo,True
+Santa Cruz,2020,7753.635760594643,definitivo,True
+Santa Cruz,2021,8235.527080450069,definitivo,True
+Santa Cruz,2022,8355.637817690827,definitivo,True
+Santa Cruz,2023,8320.49878583194,preliminar,True
+Santa Cruz,2024,7963.499537961981,preliminar,True
+Santa Fe,2004,34938.5999010332,definitivo,True
+Santa Fe,2005,38666.4370980856,definitivo,True
+Santa Fe,2006,40612.299729754326,definitivo,True
+Santa Fe,2007,43484.708504504655,definitivo,True
+Santa Fe,2008,44719.21186460518,definitivo,True
+Santa Fe,2009,40020.19608239433,definitivo,True
+Santa Fe,2010,46304.365232666474,definitivo,True
+Santa Fe,2011,47627.48675167519,definitivo,True
+Santa Fe,2012,45930.21647172726,definitivo,True
+Santa Fe,2013,47948.06867151824,definitivo,True
+Santa Fe,2014,46297.79934509238,definitivo,True
+Santa Fe,2015,47210.3451712095,definitivo,True
+Santa Fe,2016,44693.68049964764,definitivo,True
+Santa Fe,2017,47304.20878126334,definitivo,True
+Santa Fe,2018,45184.225247291004,definitivo,True
+Santa Fe,2019,45670.52960065442,definitivo,True
+Santa Fe,2020,41500.981910883456,definitivo,True
+Santa Fe,2021,47464.55821944236,definitivo,True
+Santa Fe,2022,48267.79001938352,definitivo,True
+Santa Fe,2023,46567.37605598136,preliminar,True
+Santa Fe,2024,48016.83689423082,preliminar,True
+Santiago del Estero,2004,5165.689413779487,definitivo,True
+Santiago del Estero,2005,5202.491355886574,definitivo,True
+Santiago del Estero,2006,6407.9300993417955,definitivo,True
+Santiago del Estero,2007,7164.796823714861,definitivo,True
+Santiago del Estero,2008,7458.351562397036,definitivo,True
+Santiago del Estero,2009,6377.302546295841,definitivo,True
+Santiago del Estero,2010,8390.523250390763,definitivo,True
+Santiago del Estero,2011,8891.230805307678,definitivo,True
+Santiago del Estero,2012,8183.765041361052,definitivo,True
+Santiago del Estero,2013,9193.922533529945,definitivo,True
+Santiago del Estero,2014,10641.944702790763,definitivo,True
+Santiago del Estero,2015,10470.096565766697,definitivo,True
+Santiago del Estero,2016,10765.440389927968,definitivo,True
+Santiago del Estero,2017,11407.750990289487,definitivo,True
+Santiago del Estero,2018,10062.553120914466,definitivo,True
+Santiago del Estero,2019,10578.344218696053,definitivo,True
+Santiago del Estero,2020,9555.207463339597,definitivo,True
+Santiago del Estero,2021,10272.449007066396,definitivo,True
+Santiago del Estero,2022,10959.116010394335,definitivo,True
+Santiago del Estero,2023,9497.230642813949,preliminar,True
+Santiago del Estero,2024,9312.992946306487,preliminar,True
+Tucumán,2004,7416.993102372293,definitivo,True
+Tucumán,2005,8200.339908670028,definitivo,True
+Tucumán,2006,9088.059674559605,definitivo,True
+Tucumán,2007,9767.33266263302,definitivo,True
+Tucumán,2008,10291.690214785403,definitivo,True
+Tucumán,2009,9844.599150312166,definitivo,True
+Tucumán,2010,10474.030477857294,definitivo,True
+Tucumán,2011,11366.178301638936,definitivo,True
+Tucumán,2012,11257.05408428752,definitivo,True
+Tucumán,2013,11206.705392361891,definitivo,True
+Tucumán,2014,10967.686398797354,definitivo,True
+Tucumán,2015,11278.710654484235,definitivo,True
+Tucumán,2016,11461.02931591199,definitivo,True
+Tucumán,2017,11837.782241179875,definitivo,True
+Tucumán,2018,11962.311705800812,definitivo,True
+Tucumán,2019,12060.755145201036,definitivo,True
+Tucumán,2020,10888.865688914026,definitivo,True
+Tucumán,2021,11851.321977444386,definitivo,True
+Tucumán,2022,11887.767267236322,definitivo,True
+Tucumán,2023,11582.527751876467,preliminar,True
+Tucumán,2024,11136.151550281395,preliminar,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2004,3329.921293747206,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2005,3626.259587136017,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2006,4101.171334110191,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2007,4259.477493786972,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2008,4252.289666112132,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2009,3831.302901826954,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2010,4812.189528128276,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2011,5967.5173592767915,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2012,6426.001554341258,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2013,6431.323604196876,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2014,5720.507279805042,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2015,5913.048245643806,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2016,5633.012679839971,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2017,5667.262069982659,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2018,5614.212944551392,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2019,5084.145013493656,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2020,4758.03703005955,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2021,5446.548461065831,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2022,5859.757660141521,definitivo,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2023,5607.549047156153,preliminar,True
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",2024,4872.032955147113,preliminar,True
+No distribuido,2004,294.1091785312619,definitivo,False
+No distribuido,2005,144.1107304644981,definitivo,False
+No distribuido,2006,179.42382937564037,definitivo,False
+No distribuido,2007,118.25554686239134,definitivo,False
+No distribuido,2008,101.35494631172763,definitivo,False
+No distribuido,2009,134.95599108324254,definitivo,False
+No distribuido,2010,307.16712270724753,definitivo,False
+No distribuido,2011,290.90960990700563,definitivo,False
+No distribuido,2012,280.2650550604603,definitivo,False
+No distribuido,2013,315.245793723065,definitivo,False
+No distribuido,2014,288.88013270328884,definitivo,False
+No distribuido,2015,303.76155174334906,definitivo,False
+No distribuido,2016,328.56058975361634,definitivo,False
+No distribuido,2017,291.38121044596016,definitivo,False
+No distribuido,2018,277.09929479937836,definitivo,False
+No distribuido,2019,270.8382226990469,definitivo,False
+No distribuido,2020,242.77277176767763,definitivo,False
+No distribuido,2021,273.58567369979363,definitivo,False
+No distribuido,2022,311.95507549517333,definitivo,False
+No distribuido,2023,399.3290386446468,preliminar,False
+No distribuido,2024,354.4375534150517,preliminar,False
+Total,2004,412427.4593833925,definitivo,False
+Total,2005,450303.33233439963,definitivo,False
+Total,2006,484489.0863423166,definitivo,False
+Total,2007,523313.96210307453,definitivo,False
+Total,2008,542819.2808232146,definitivo,False
+Total,2009,511683.81018198765,definitivo,False
+Total,2010,562997.5366526027,definitivo,False
+Total,2011,593520.2704362883,definitivo,False
+Total,2012,585086.2889999056,definitivo,False
+Total,2013,597995.549533906,definitivo,False
+Total,2014,587117.3385828307,definitivo,False
+Total,2015,602940.2317529828,definitivo,False
+Total,2016,589623.0555009687,definitivo,False
+Total,2017,604787.1451663844,definitivo,False
+Total,2018,588532.6886690131,definitivo,False
+Total,2019,579043.4126691399,definitivo,False
+Total,2020,521692.24557097914,definitivo,False
+Total,2021,576254.4606032021,definitivo,False
+Total,2022,604816.0821576995,definitivo,False
+Total,2023,595631.0755144242,preliminar,False
+Total,2024,587215.0533979054,preliminar,False
