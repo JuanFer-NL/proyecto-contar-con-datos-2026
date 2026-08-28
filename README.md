@@ -27,7 +27,19 @@ docs/             Diccionario de variables, notas metodológicas
 
 ## Cómo correr el proyecto localmente
 
-_(pendiente de completar a medida que se arme el pipeline)_
+```bash
+python3 -m venv .venv && source .venv/bin/activate   # o el venv que prefieras
+pip install -r etl/requirements.txt -r app/requirements.txt
+
+# Pipeline de datos (ya generado y versionado en data/processed/, re-ejecutar solo si cambia la fuente)
+python etl/build_tidy_dataset.py
+python etl/download_shapefile.py
+python sql/load_data.py
+Rscript r/analisis_exploratorio.R
+
+# App
+cd app && streamlit run app.py
+```
 
 ## Licencia y uso
 
