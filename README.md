@@ -14,11 +14,18 @@ https://www.cepal.org/es/publicaciones/47900-desagregacion-provincial-valor-agre
 
 Datos: VAB a precios básicos (precios constantes de 2004), 24 jurisdicciones, 52 ramas de actividad económica (CIIU Rev. 3.1), serie 2004-2024 (2023 provisorio, 2024 preliminar).
 
+## App en vivo
+
+https://proyecto-contar-con-datos.streamlit.app/
+
+(Deployada desde el repositorio anónimo `acdc-projects00/proyecto-contar-con-datos-2026`, requisito de presentación con seudónimo del Concurso — ver punto 10 de las Bases y Condiciones.)
+
 ## Estructura del repositorio
 
 ```
 data/raw/         Datos originales sin modificar
 data/processed/   Datos procesados listos para el análisis y la app
+etl/              Scripts de extracción y transformación (Excel/shapefile -> tidy)
 sql/              Esquema y scripts de carga de la base de datos
 r/                Scripts de análisis exploratorio y cálculo de métricas
 app/              Aplicación del mapa interactivo (Python)
