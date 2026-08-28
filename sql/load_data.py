@@ -49,10 +49,12 @@ CODIGO_INDEC = {
 def main():
     vab_total = pd.read_csv(PROCESSED_DIR / "vab_total.csv")
     vab_sectorial = pd.read_csv(PROCESSED_DIR / "vab_sectorial.csv")
+    macro_sectores = pd.read_csv(Path(__file__).resolve().parent / "macro_sectores.csv")
 
     # Solo las 24 jurisdicciones reales van a la tabla de dimensión "provincias".
     provincias = sorted(vab_total.loc[vab_total["es_jurisdiccion"], "provincia"].unique())
     sectores = sorted(vab_sectorial["sector"].unique())
+    macro_sector_por_sector = dict(zip(macro_sectores["sector"], macro_sectores["macro_sector"]))
 
     if DB_PATH.exists():
         DB_PATH.unlink()
@@ -65,8 +67,8 @@ def main():
         [(p, CODIGO_INDEC.get(p)) for p in provincias],
     )
     conn.executemany(
-        "INSERT INTO sectores (nombre) VALUES (?)",
-        [(s,) for s in sectores],
+        "INSERT INTO sectores (nombre, macro_sector) VALUES (?, ?)",
+        [(s, macro_sector_por_sector.get(s)) for s in sectores],
     )
     conn.commit()
 
@@ -101,6 +103,10 @@ def main():
     sin_codigo = [p for p in provincias if CODIGO_INDEC.get(p) is None]
     if sin_codigo:
         print(f"ADVERTENCIA: sin código INDEC para: {sin_codigo}")
+
+    sin_macro = [s for s in sectores if macro_sector_por_sector.get(s) is None]
+    if sin_macro:
+        print(f"ADVERTENCIA: sin macro_sector para: {sin_macro}")
 
     print(f"OK: {len(provincias)} provincias, {len(sectores)} sectores")
     print(f"OK: {len(total_rows)} filas en vab_total, {len(sectorial_rows)} filas en vab_sectorial")

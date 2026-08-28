@@ -1,0 +1,53 @@
+sector,macro_sector
+"Agricultura, ganaderia, caza y servicios conexos","Agro, pesca y silvicultura"
+Pesca,"Agro, pesca y silvicultura"
+"Silvicultura, extracción de madera y servicios conexos","Agro, pesca y silvicultura"
+"Extracción de carbón y lignito; extracción de turba. Extracción de petróleo crudo y gas natural; actividades de servicios relacionadas con la extracción de petróleo y gas, excepto las actividades de prospección.",Minería y energía
+Extracción de minerales metalíferos. Explotación de  minas y canteras n.c.p.,Minería y energía
+Generación captación y distribución de energía eléctrica,Minería y energía
+Fabricación de gas ; distribución de combustibles gaseosos por tuberías,Minería y energía
+"Captación , depuración y distribución de agua",Minería y energía
+Elaboración de productos alimenticios y bebidas,Industria manufacturera
+Elaboración de productos de tabaco,Industria manufacturera
+Fabricación de productos textiles,Industria manufacturera
+Fabricación de prendas de vestir; terminación y teñido de pieles,Industria manufacturera
+"Curtido y terminación de cueros; fabricación de artículos de marroquinería, talabartería y calzado y de sus partes",Industria manufacturera
+"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",Industria manufacturera
+Fabricación de papel y de  productos de papel,Industria manufacturera
+Edición e impresión; reproducción de grabaciones,Industria manufacturera
+"Fabricación de coque, productos de la refinación del petróleo y combustible nuclear",Industria manufacturera
+Fabricación de sustancias y productos químicos,Industria manufacturera
+Fabricación de productos de caucho y plástico,Industria manufacturera
+Fabricación de productos minerales no metálicos,Industria manufacturera
+Fabricación de metales comunes,Industria manufacturera
+"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",Industria manufacturera
+Fabricación de maquinaria y equipo n.c.p.,Industria manufacturera
+"Fabricación de maquinaria de oficina, contabilidad e informática",Industria manufacturera
+Fabricación de maquinaria y aparatos eléctricos  n.c.p.,Industria manufacturera
+"Fabricación de equipos y aparatos de radio, televisión y comunicaciones",Industria manufacturera
+"Fabricación de instrumentos médicos, ópticos y de precisión; fabricación de relojes",Industria manufacturera
+"Fabricación de vehículos automotores, remolques y semirremolques",Industria manufacturera
+Fabricación de equipo de transporte n.c.p.,Industria manufacturera
+Fabricación de muebles y colchones; industrias manufactureras n.c.p.,Industria manufacturera
+Reciclamiento,Industria manufacturera
+"Reparación, mantenimiento e instalación de maquinas y equipos",Industria manufacturera
+Construcción,Construcción
+"Comercio mayorista, minorista y reparaciones",Comercio
+Hoteles; campamentos y otros tipos de hospedaje temporal,Hotelería y gastronomía
+"Restaurantes, bares y cantinas",Hotelería y gastronomía
+Transporte,Transporte y comunicaciones
+Comunicaciones,Transporte y comunicaciones
+Intermediación financiera y otros servicios financieros,Servicios financieros e inmobiliarios
+Servicios de seguros,Servicios financieros e inmobiliarios
+Servicios auxiliares a la actividad financiera,Servicios financieros e inmobiliarios
+Propiedad de la vivienda*,Servicios financieros e inmobiliarios
+Administración pública y defensa; Planes de seguridad social de afiliación obligatoria,"Administración pública, salud y educación"
+Enseñanza pública,"Administración pública, salud y educación"
+Enseñanza privada,"Administración pública, salud y educación"
+Salud pública,"Administración pública, salud y educación"
+Salud privada,"Administración pública, salud y educación"
+"Eliminación de desperdicios y aguas residuales, saneamiento y servicios similares",Otros servicios
+Asociaciones,Otros servicios
+Servicios culturales y deportivos. Otras actividades,Otros servicios
+Servicio doméstico*,Otros servicios
+Resto,Resto / no clasificado

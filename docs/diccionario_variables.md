@@ -32,6 +32,46 @@
 
 **Fuente**: Instituto Geográfico Nacional (IGN), capa "Provincia", vía servicio WFS del Geoserver del IGN. Generado con `etl/download_shapefile.py`. El shapefile original (sin simplificar, ~64 MB) queda en `data/raw/shapefile_provincias/` y no se versiona en el repo.
 
+## `data/processed/estructura_macrosectorial.csv`
+
+Agrupa los 52 sectores en 11 macro-sectores legibles (ver `sql/macro_sectores.csv` para el mapeo completo, criterio propio del proyecto) y calcula la participación porcentual de cada uno en el VAB provincial de cada año.
+
+| Variable | Tipo | Descripción |
+|---|---|---|
+| `provincia`, `anio` | — | Igual que en los datasets anteriores. |
+| `macro_sector` | texto | Uno de: Agro/pesca/silvicultura, Minería y energía, Industria manufacturera, Construcción, Comercio, Hotelería y gastronomía, Transporte y comunicaciones, Servicios financieros e inmobiliarios, Administración pública/salud/educación, Otros servicios, Resto/no clasificado. |
+| `vab` | numérico | VAB del macro-sector (suma de sus sectores componentes). |
+| `participacion_pct` | numérico | % que representa ese macro-sector sobre el VAB total de la provincia en ese año. Suma 100% por provincia/año. |
+
+**Nota**: "Resto/no clasificado" corresponde al sector "Resto" original del dataset fuente (no especificado por CEPAL/MECON) y puede tener peso significativo en algunas jurisdicciones (ej. ~18% en CABA en 2024) — se mantiene sin desagregar por transparencia, no se fuerza su reasignación a otro macro-sector.
+
+Generado por `r/analisis_exploratorio.R`.
+
+## `data/processed/diversificacion_hhi.csv`
+
+Índice de Herfindahl-Hirschman (HHI) de concentración/diversificación productiva, calculado sobre los 52 sectores originales (no los macro-sectores, para no subestimar la concentración real).
+
+| Variable | Tipo | Descripción |
+|---|---|---|
+| `provincia`, `anio` | — | Igual que en los datasets anteriores. |
+| `hhi` | numérico (0-1) | Suma de las participaciones sectoriales al cuadrado. Valores cercanos a 1/52 (~0.02) indican estructura muy diversificada; valores altos (ej. >0.15) indican fuerte concentración en pocos sectores. |
+
+Generado por `r/analisis_exploratorio.R`.
+
+## `data/processed/crecimiento_provincial.csv`
+
+Tasa de crecimiento del VAB total por provincia, comparando el año base (2004) contra el último año con dato **definitivo** (excluye 2023 provisorio y 2024 preliminar para no comparar contra una estimación).
+
+| Variable | Tipo | Descripción |
+|---|---|---|
+| `provincia` | texto | — |
+| `anio_inicial`, `anio_final` | entero | 2004 y el último año definitivo disponible (actualmente 2022). |
+| `vab_inicial`, `vab_final` | numérico | VAB total en esos años. |
+| `crecimiento_acumulado_pct` | numérico | Variación % total del período. |
+| `crecimiento_anual_promedio_pct` | numérico | Tasa de crecimiento anual compuesta equivalente. |
+
+Generado por `r/analisis_exploratorio.R`.
+
 ## Notas metodológicas heredadas de la fuente
 
 - **Año base**: 2004. Los valores están a precios constantes de ese año (no corregidos por inflación posterior a 2004, permite comparar volumen físico entre años).
