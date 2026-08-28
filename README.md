@@ -1,4 +1,4 @@
-# Mapa Interactivo de Estructura Económica Provincial
+# El mapa del crecimiento argentino
 
 Proyecto presentado al Concurso Nacional de Visualización de Datos 2026 — "Contar con Datos" (categoría: Exploración interactiva).
 

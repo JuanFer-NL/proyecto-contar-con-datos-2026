@@ -24,7 +24,7 @@ from data_loader import (
 )
 
 st.set_page_config(
-    page_title="Contar con Datos — Estructura económica provincial",
+    page_title="El mapa del crecimiento argentino",
     layout="wide",
     initial_sidebar_state="collapsed",
 )
@@ -319,10 +319,11 @@ with st.container(key="map_full"):
 # HUD IZQUIERDO: título, selector de vista, KPIs, ranking, fuente
 # ---------------------------------------------------------------------------
 with st.container(key="hud_left"):
-    st.markdown("### ¿Cómo le fue a cada provincia desde 2004?")
+    st.markdown("### El mapa del crecimiento argentino")
     st.caption(
-        "Crecimiento del VAB por jurisdicción (2004-2024), su estructura "
-        "sectorial y el contexto detrás de seis casos destacados."
+        "¿Cómo le fue a cada provincia desde 2004? Crecimiento del VAB por "
+        "jurisdicción (2004-2024), su estructura sectorial y el contexto "
+        "detrás de seis casos destacados."
     )
 
     st.segmented_control(
